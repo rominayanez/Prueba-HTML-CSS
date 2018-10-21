@@ -1,3 +1,18 @@
+body{
+    padding-top: 100px;
+}
+
 .logo{
     max-width: 60px;
+}
+.thumbnail > img{
+    width: 100%;
+
+}
+.map{
+    max-width: 100%;
+}
+footer{
+    background-color: #04117B;
+    color: white;
 }
