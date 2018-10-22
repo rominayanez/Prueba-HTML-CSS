@@ -23,7 +23,7 @@ footer{
 .glyphicon{
     color: white;
 }
-h3{
+h3, .glyphicon{
     color:#FB454F;
 }
 .naranjo{
@@ -32,5 +32,14 @@ h3{
 }
 .blanco{
     color: white;
-    background-color: #23E1C7;
+    background-color: #FFD418;
+}
+.btn-warning{
+    background-color: #FFD418;
+}
+.white{
+    color: white;
+}
+form{
+    padding: 0 20px;
 }
