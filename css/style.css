@@ -1,13 +1,17 @@
 body{
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 .logo{
-    max-width: 60px;
+    width: 70px;
 }
 .thumbnail > img{
-    width: 100%;
+    max-width: 100%;
+    height: 300px;
 
+}
+.thumbnail{
+    border-color: white;
 }
 .map{
     max-width: 100%;
@@ -15,4 +19,18 @@ body{
 footer{
     background-color: #04117B;
     color: white;
+}
+.glyphicon{
+    color: white;
+}
+h3{
+    color:#FB454F;
+}
+.naranjo{
+    color: #FB454F;
+    background-color: white;
+}
+.blanco{
+    color: white;
+    background-color: #23E1C7;
 }
